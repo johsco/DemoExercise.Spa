@@ -3,6 +3,7 @@
 
 ## Requirements
 Visual Studio 2017/2019 <br/>
+.Net Core 3.1 <br/>
 Sql Server Express 2016 LocalDB <br/>
 Node.js <br/>
 
