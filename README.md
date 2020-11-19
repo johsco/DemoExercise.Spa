@@ -13,4 +13,6 @@ Unless you clone the repo to C:\git folder, you will have to update the DemoExam
 You will also have to mount the mdf file to MSSqlLocalDb. Easiest way to do that is through Server Explorer in VS. 
 * Right Click "Data Connections"
 * Click "Add Connection"
-* Click Browse button and navigate to GitFolderLocation\DemoExercise.Spa\DemoExercise.Spa\DemoExample.mdf
+* Click Browse button and navigate to `<GitFolderLocation>\DemoExercise.Spa\DemoExercise.Spa\DemoExample.mdf`
+
+Run `npm install` from `<GitFolderLocation>\DemoExercise.Spa\DemoExercise.Spa\ClientApp\`
